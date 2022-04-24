@@ -1,0 +1,25 @@
+table, th,td{
+    border: 1px solid rebeccapurple;
+    /* border-collapse: collapse; */
+    text-align: left;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    width: 20%;
+}
+
+input{
+    width: 98%;
+}
+
+.tp{
+    margin-left:  38%;
+}
+
+.pt{
+    margin-left:  38%;
+}
